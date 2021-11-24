@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1085740786023",
+    "firebase_url": "https://database-du-an-1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "database-du-an-1",
+    "storage_bucket": "database-du-an-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085740786023:android:82f0a96717231a9c2d8fc2",
+        "android_client_info": {
+          "package_name": "com.example.androidduanmot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085740786023-mv27kjmmfuqlfh9jlbfc65p76a8c1lsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRp3HmbGNo0-YaFwKHY2dWMFWw6bcQM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085740786023-mv27kjmmfuqlfh9jlbfc65p76a8c1lsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085740786023:android:7c33dbccb9037bef2d8fc2",
+        "android_client_info": {
+          "package_name": "com.example.duanmot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085740786023-mv27kjmmfuqlfh9jlbfc65p76a8c1lsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRp3HmbGNo0-YaFwKHY2dWMFWw6bcQM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085740786023-mv27kjmmfuqlfh9jlbfc65p76a8c1lsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
