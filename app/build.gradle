@@ -47,6 +47,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
 
-    implementation 'com.github.d-max:spotts-dialog:1.1@aar'
+    implementation 'com.firebaseui:firebase-ui-auth:5.1.0'
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
 
 }
