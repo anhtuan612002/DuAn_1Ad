@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1078480571193",
+    "firebase_url": "https://duan1-b11f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "duan1-b11f1",
+    "storage_bucket": "duan1-b11f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078480571193:android:25661ebc318376432136e8",
+        "android_client_info": {
+          "package_name": "com.example.duan1ccccccc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078480571193-tpglc1qi7rbf145sf9e4jgtnvg362c3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7HizNpzy9U-TFeDYHIDCkOTdx29rJ7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078480571193-tpglc1qi7rbf145sf9e4jgtnvg362c3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078480571193:android:32d10d568f4dfa4a2136e8",
+        "android_client_info": {
+          "package_name": "com.example.duan1text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078480571193-tpglc1qi7rbf145sf9e4jgtnvg362c3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7HizNpzy9U-TFeDYHIDCkOTdx29rJ7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078480571193-tpglc1qi7rbf145sf9e4jgtnvg362c3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078480571193:android:48e346630ebb8cb62136e8",
+        "android_client_info": {
+          "package_name": "com.example.taobaithu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078480571193-tpglc1qi7rbf145sf9e4jgtnvg362c3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7HizNpzy9U-TFeDYHIDCkOTdx29rJ7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078480571193-tpglc1qi7rbf145sf9e4jgtnvg362c3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
